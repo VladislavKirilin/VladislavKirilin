@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>👋 Привет, я Владислав</h1>
+  <h1>Кирилин Владислав</h1>
   <h3>Backend-разработчик | PHP | Laravel | AI </h3>
   
   ![](https://komarev.com/ghpvc/?username=VladislavKirilin&color=0e75b6&style=flat)
